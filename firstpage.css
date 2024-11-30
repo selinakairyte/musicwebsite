@@ -1,0 +1,31 @@
+body {
+    color: purple;
+    background-color: lightyellow;
+    text-decoration: wavy;
+    text-shadow: 500cm;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: center;
+    padding-top: 5%;
+
+}
+
+div {
+    width: 20%;
+    border: 5px solid green;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+.boxes{
+    align-items: center;
+    height: 100%;
+    width: 50%;
+    position: relative;
+    /* width: auto;  */
+}
